@@ -1,5 +1,3 @@
-from idlelib.configdialog import is_int
-
 from flask import Flask, jsonify, request
 import json
 
